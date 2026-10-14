@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![Stars](https://img.shields.io/github/stars/your-username/web-crawler-roadmap?style=social)](#)
+[![Stars](https://img.shields.io/github/stars/sam28u/Web-Crawler-Roadmap?style=social)](#)
 
 ---
 
